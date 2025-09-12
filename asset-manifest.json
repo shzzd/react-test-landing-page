@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-test-landing-page/static/css/main.7d51dbc6.css",
+    "main.css": "/react-test-landing-page/static/css/main.84eba3d3.css",
     "main.js": "/react-test-landing-page/static/js/main.3badd1b3.js",
     "static/js/453.7db6d32b.chunk.js": "/react-test-landing-page/static/js/453.7db6d32b.chunk.js",
     "static/media/5b6d7ddc.jpg": "/react-test-landing-page/static/media/1fff6daf29b6ac3759a650421e64bb315b6d7ddc.4ac60471973b843b4f26.jpg",
@@ -12,12 +12,12 @@
     "static/media/Group.png": "/react-test-landing-page/static/media/Group.918557f5d55499db7476.png",
     "static/media/Vector.png": "/react-test-landing-page/static/media/Vector.1fbb8ef05ae439f31d24.png",
     "index.html": "/react-test-landing-page/index.html",
-    "main.7d51dbc6.css.map": "/react-test-landing-page/static/css/main.7d51dbc6.css.map",
+    "main.84eba3d3.css.map": "/react-test-landing-page/static/css/main.84eba3d3.css.map",
     "main.3badd1b3.js.map": "/react-test-landing-page/static/js/main.3badd1b3.js.map",
     "453.7db6d32b.chunk.js.map": "/react-test-landing-page/static/js/453.7db6d32b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7d51dbc6.css",
+    "static/css/main.84eba3d3.css",
     "static/js/main.3badd1b3.js"
   ]
 }
