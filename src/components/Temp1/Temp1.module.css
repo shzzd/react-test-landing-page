@@ -190,8 +190,12 @@
         gap: 20px;
     }
 
+    .top {
+        padding: 1px 6px;
+    }
+
     .top > p:nth-child(1) {
-        font-size: 6px;
+        font-size: 5px;
     }
 
     .top p {
@@ -211,11 +215,13 @@
     .buttons {
         flex-direction: column;
         width: 100%;
+        gap: 15px;
     }
 
     .buttons button:nth-child(1),
     .buttons button:nth-child(2) {
         font-size: 14px;
-        padding: 8px;
+        padding: 12px;
+        margin-top: 0;
     }
 }

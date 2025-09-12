@@ -69,12 +69,17 @@
 /* Phones */
 @media (max-width: 480px) {
     .footer {
-        margin: 10px 0;
+        margin: 20px 0;
         padding: 0 10px;
+        gap: 5px;
+    }
+
+    .left {
+        gap: 5px;
     }
 
     .left > p {
-        font-size: 7px;
+        font-size: 10px;
     }
 
     .logo {
@@ -88,6 +93,6 @@
     }
 
     .right > p {
-        font-size: 10px;
+        font-size: 12px;
     }
 }
